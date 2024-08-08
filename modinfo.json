@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "efficientGrinding",
+    "name": "Efficient Mana Grinding",
+    "authors": [ "OromisElf" ],
+    "description": "The more Crystallized Mana you put into your mortar and pestle, the more efficient it becomes.",
+    "category": "rebalance",
+    "dependencies": [ "dda", "magiclysm" ]
+  }
+]
